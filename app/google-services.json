@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "944589718626",
+    "firebase_url": "https://admob-app-id-8898760064.firebaseio.com",
+    "project_id": "admob-app-id-8898760064",
+    "storage_bucket": "admob-app-id-8898760064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944589718626:android:0b1375880f29ca7a",
+        "android_client_info": {
+          "package_name": "com.delon.user.countcharacternumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944589718626-odkhjis6auuvp8b3825a79cr5ubagcsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpDPpn05MfFGmVPnpTszixIlTI6yVIIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
